@@ -1,2 +1,2 @@
 # Interactive Microbial Genetic Algorithm
- Exploring mental prototypes by IMGA
+Exploring Mental Prototypes by an Efficient Interdisciplinary Approach: Interactive Microbial Genetic Algorithm (IMGA)
